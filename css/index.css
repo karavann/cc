@@ -160,7 +160,7 @@ h1, h2, h3, p, a {
     display: -ms-grid;
     display: grid;
     -ms-grid-columns: 1fr 10px 1fr 10px 1fr 10px 1fr 10px 1fr 10px 1fr;
-    grid-template-columns: repeat(6, 1fr);
+    grid-template-columns: repeat(5, 1fr);
     gap: 10px;
     margin-bottom: 30px;
 }
